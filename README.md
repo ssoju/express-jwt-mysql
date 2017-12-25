@@ -16,3 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+http://catalin.me/role-based-authentication-with-angular-express-jwt-mysql-part-1/
